@@ -9,6 +9,7 @@ public class HardAssert1 {
 	  System.out.println("Test Started");
 	  String d = "Dinesh";
 	  String c = "Dinesh";
+	  String cc = "Dinesh";
 	  Assert.assertEquals(d, "Dinesh");
 	  Assert.assertEquals(2, 3);
 	  System.out.println("After First Assertion");
