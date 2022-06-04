@@ -6,6 +6,8 @@ import org.testng.annotations.Test;
 public class HardAssert4 {
   @Test
   public void f() {
+	  
+	  //Added Additional condition
 	  System.out.println("Test Started");
 	  String d = "Ganesh";
 	  String c = "ganesh";
