@@ -8,7 +8,7 @@ public class HardAssert1 {
   public void f() {
 	  System.out.println("Test Started");
 	  String d = "Dinesh";
-	  String c = "Dinesh";
+	  String c = "Dinfdhgsesh";
 	  String cc = "Dinesh";
 	  Assert.assertEquals(d, "Dinesh");
 	  Assert.assertEquals(2, 3);
