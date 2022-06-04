@@ -2,7 +2,7 @@ package assertions;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
+//TEST2
 public class HardAssert1 {
   @Test
   public void f() {
